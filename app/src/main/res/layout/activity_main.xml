@@ -10,7 +10,7 @@
         android:id="@+id/progressbar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:progress="72"
+        android:progress="26"
         android:padding="5dp"
         ebar:progress_text_color="#fff"
         ebar:progress_reach_color="#000000"
